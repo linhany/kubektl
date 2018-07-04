@@ -8,3 +8,8 @@ This scripts improves on that, by:
 - Caching current resource selected
 - Providing easy way to target and perform actions on any kubernetes resource
 - Other miscellaneous benefits, like pretty colors :) 
+
+# Installation
+Source `kube.sh` in your profile.
+Edit the aliases in the script as necessary.
+Integrate with the kubens/kubectx utility (https://github.com/ahmetb/kubectx): input their commands in the script.
