@@ -32,3 +32,7 @@ If you use them directly, the active resource will not be cleared/ switched.<br>
 
 - `kubewatch` Does a watch on the last selected kubernetes resource list
 - `kubereload` Clears cached information and restores to default state.
+
+# Todos:
+- Improve/automate installation process
+- Provide easier way for user configuration
